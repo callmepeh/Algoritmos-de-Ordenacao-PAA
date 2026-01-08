@@ -16,7 +16,7 @@ Comparar os algoritmos considerando:
 - Sensibilidade à ordenação inicial
 
 ## 🛠 Tecnologias
-- Linguagem: (Python/C/Java)
+- Linguagem: Python
 - Sistema Operacional: (Windows/Linux)
 - Hardware: (CPU, RAM)
 
