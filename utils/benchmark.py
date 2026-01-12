@@ -1,6 +1,6 @@
 from utils.timer import measure_time
 
-def run_benchmark(algorithm, data_func, n, repetitions=5):
+def run_benchmark(algorithm, data_func, n, repetitions=20):
     times = []
     for _ in range(repetitions):
         arr = data_func(n)
